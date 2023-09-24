@@ -21,7 +21,7 @@ To get the project up and running, follow these steps:
 1. Clone the Git repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/admitkard_backend.git
+   git clone https://github.com/AjayRathore21/admitkard_backend.git
 
    ```
 
