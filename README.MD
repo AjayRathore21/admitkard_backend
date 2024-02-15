@@ -2,6 +2,8 @@
 
 Admitkard Backend is a Node.js application used for phone number verification via OTP.
 
+Project Video->https://drive.google.com/file/d/1dggv7Z3XCA9ulqWOTKhoWeo5fJ9UA3PX/view
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
