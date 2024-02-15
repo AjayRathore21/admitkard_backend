@@ -6,6 +6,7 @@ mongoose.connect(
     useNewUrlParser: true,
     useUnifiedTopology: true,
   }
+  // "mongodb+srv://ajaykumar420ak79:<password>@admitkardcluster.aiyol0u.mongodb.net/?retryWrites=true&w=majority"
 );
 
 const db = mongoose.connection;
